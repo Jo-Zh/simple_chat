@@ -1,0 +1,6 @@
+# get Start with simple_chat
+create a simple chat robot with openAI, Streamlit
+## need pip install openai
+## need pip install streamlit-chat
+## need a API key from openAI ....
+## Then run with streamlit run app/robot1.py...
